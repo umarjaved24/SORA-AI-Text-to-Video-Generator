@@ -51,25 +51,17 @@ At this time, we don't have a timeline or additional details to share on Sora's 
 
 
 FAQs:
+1. **What is SORA?**
+   - SORA is a cutting-edge AI model developed by OpenAI that transforms text instructions into realistic videos.
 
-1. **What is SORA? **
+2. **How does SORA work?**
+   - SORA is powered by a diffusion model, gradually transforming noise into coherent video frames using a transformer architecture.
 
-- SORA is a cutting-edge AI model developed by OpenAI that transforms text instructions into realistic videos.
+3. **Can SORA generate videos from scratch?**
+   - Yes, SORA can generate videos from scratch based on text prompts, bringing scenes to life with vivid imagery.
 
-
-2. **How does SORA work? **
-
-- SORA is powered by a diffusion model, gradually transforming noise into coherent video frames using a transformer architecture.
-
-
-3. **Can SORA generate videos from scratch? **
-
-- Yes, SORA can generate videos from scratch based on text prompts, bringing scenes to life with vivid imagery.
-
-
-4. **Is SORA publicly available? **
-
-- SORA is currently available to red teamers for assessment and to select creative professionals for feedback. Public availability details are yet to be announced.
+4. **Is SORA publicly available?**
+   - SORA is currently available to red teamers for assessment and to select creative professionals for feedback. Public availability details are yet to be announced.
 
 
 [**Visit SORA Website**](https://sora.com.pk)"
